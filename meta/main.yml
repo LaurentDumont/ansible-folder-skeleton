@@ -1,0 +1,12 @@
+galaxy_info:
+  author: Laurent Dumont
+  description: Sysadmin and Network Specialist
+  company: Fibrenoire
+  license: MIT
+  min_ansible_version: 1.2
+  galaxy_tags: []
+  platforms:
+  - name: Debian
+    versions:
+    - all
+dependencies: []
